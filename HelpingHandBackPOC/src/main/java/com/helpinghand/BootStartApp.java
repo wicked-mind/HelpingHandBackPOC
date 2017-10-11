@@ -1,4 +1,4 @@
-package com.helpinghand.bootapp;
+package com.helpinghand;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

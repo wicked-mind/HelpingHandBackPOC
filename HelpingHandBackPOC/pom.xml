@@ -14,7 +14,7 @@
   	<properties>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<start-class>com.helpinghand.BootApp</start-class>
+		<start-class>com.helpinghand.bootapp.BootStartApp</start-class>
   	</properties>
 
  	<parent>
