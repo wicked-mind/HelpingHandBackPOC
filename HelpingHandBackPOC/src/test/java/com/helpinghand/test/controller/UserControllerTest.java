@@ -50,7 +50,7 @@ public class UserControllerTest {
 	 */
 	@Test
 	public void validateRegisterUserURLMap() throws Exception {
-		mockMvc.perform(get("/helpinghandservice/registerUser")).andExpect(status().isOk());
+		mockMvc.perform(get("/helpinghandservice/userservice/registeruser")).andExpect(status().isOk());
 	}
 
 }
